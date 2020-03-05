@@ -1,4 +1,4 @@
-Reference_PMID;PubMed_Ranking;Test_PMID;Equivalence;3R;First_rater;Second_rater;Stages
+Reference_PMID;PubMed_Ranking;Test_PMID;Equivalence;Relevance;First_rater;Second_rater;Stages
 24204323;1;22970194;+;FALSE;+;na;Knowledge base, Target discovery
 24204323;2;23468640;+;FALSE;+;na;Knowledge base, Target discovery
 24204323;3;16687439;n;FALSE;n;na;(Knowledge base), Target discovery
