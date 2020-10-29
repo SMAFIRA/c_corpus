@@ -3,6 +3,7 @@ A corpus of case studies in biomedicine comprising PubMed-Identifiers (PMIDs) an
 Details regarding the elaboration of this corpus may be found at https://www.researchsquare.com/article/rs-16454/v1.
 
 Version 0.03 comprises 3 case studies with about 300 individual abstracts. Abstracts are annotated on document level.
+
 Version 0.4 comprises 4 case studies with about 400 individual abstracts. Each abstract provides additional annotations regarding staging of the research project.
 
 If you use our data, please cite our publication:
